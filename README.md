@@ -79,6 +79,6 @@ The following API calls can be made using the Acunetix API, as provided in the [
 - Headers: `{"X-Auth": apikey, "content-type": "application/json"}`
   - `scan_id`: The ID of the scan to delete.
 
-For more details, you can refer to the [Acunetix 11 API Documentation](http://0cx.cc/about_awvs11_api.jspx).
+For more details, you can refer to the Acunetix API Documentation
 
 ---
